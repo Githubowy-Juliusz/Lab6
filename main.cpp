@@ -6,5 +6,5 @@ using namespace std;
 int main()
 {
 	srand(time(0));
-	cout<<funkcja1();
+	cout<<funkcja1()+15;
 }
