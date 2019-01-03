@@ -8,4 +8,5 @@ int main()
 	srand(time(0));
 	cout<<funkcja1()<<endl;
 	cout<<"t\ne\ns\nt\n";
+	cout<<funkcja1()+15;
 }
