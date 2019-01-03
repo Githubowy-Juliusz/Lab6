@@ -9,4 +9,5 @@ int main()
 	cout<<funkcja1()<<endl;
 	funkcja2();
 	funkcja3(5);
+	cout<<"koniec\n";
 }
