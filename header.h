@@ -3,6 +3,6 @@
 
 int funkcja1();
 int funkcja2();
-void funkcja3();
+void funkcja3(int a);
 
 #endif
