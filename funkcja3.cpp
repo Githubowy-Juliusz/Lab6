@@ -3,5 +3,5 @@ using namespace std;
 
 void funkcja3()
 {
-	cout<<"tekst\n"
+	cout<<"tekst\n";
 }
