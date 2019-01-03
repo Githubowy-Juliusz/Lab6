@@ -7,6 +7,7 @@ int main()
 {
 	srand(time(0));
 	cout<<funkcja1()<<endl;
-	cout<<"t\ne\ns\nt\n";
-	cout<<funkcja1()+15;
+	funkcja2();
+	funkcja3(5);
+	cout<<"koniec\n";
 }
