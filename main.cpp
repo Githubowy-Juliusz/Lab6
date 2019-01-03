@@ -1,8 +1,10 @@
 #include <iostream>
+#include <ctime>
 #include "header.h"
 using namespace std;
 
 int main()
 {
-	cout<<funkcja1;
+	srand(time(0));
+	cout<<funkcja1();
 }
