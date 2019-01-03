@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	srand(time(0));
-	cout<<funkcja1()<<endl;
+	cout<<funkcja1()+1<<endl;
 	funkcja2();
 	for(int i=0;i<5;i++)
 	{
