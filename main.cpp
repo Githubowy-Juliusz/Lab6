@@ -13,5 +13,6 @@ int main()
 		cout<<i<<endl;
 	}
 	funkcja3(5);
+	funkcja3(1);
 	cout<<"koniec\n";
 }
